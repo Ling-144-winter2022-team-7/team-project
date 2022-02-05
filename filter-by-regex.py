@@ -1,6 +1,6 @@
 # Initiated by Kelsey Kraus
 #
-# Contributors: Jack McGreevy, Jason Kushner, Samantha Loya Garcia, Mehr Showkat 
+# Contributors: <UPDATE ME!> 
 #
 # Description: <UPDATE ME!> This file currently contains the instructions for replicating the data cleaning method implemented by CTK 2016.
 
