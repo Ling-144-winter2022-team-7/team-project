@@ -31,4 +31,4 @@ Each line in this file is a comma-separated list (csv) of the following informat
   - **id**: the tweet ID 
   - **url**: the address where this tweet can be publically viewed
 
-Team members: Jason Kushner, Mehr Showkat
+Team members: Jason Kushner, Mehr Showkat, Jack McGreevy, Samantha Loya Garcia
